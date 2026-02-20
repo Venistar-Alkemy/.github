@@ -86,30 +86,6 @@ Because innovation starts with **humans, not code**.
 - 📈 Enabling data-driven decisions
 - 🌱 Creating sustainable digital ecosystems
 
----
-<!-- BEGIN YOUTUBE-CARDS -->
-## 🎬 Video Highlights
-
-<div>
-
-<a href="https://www.youtube.com/watch?v=Mi-6xeQn-mI" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=Mi-6xeQn-mI&lang=it" alt="YouTube video card" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=6tLdqNzRUvE&t=4s" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=6tLdqNzRUvE&lang=it" alt="YouTube video card" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=GuAqR9qwYjw&list=PL4g9d_pdvFEdHQvzk9y1sY5nl4Dk0aUnG" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=GuAqR9qwYjw&lang=it" alt="YouTube video card" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=YqtetnuU4sc&list=PL4g9d_pdvFEdHQvzk9y1sY5nl4Dk0aUnG&index=2" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=YqtetnuU4sc&lang=it" alt="YouTube video card" />
-</a>
-
-</div>
-<!-- END YOUTUBE-CARDS -->
 
 
 <div align="center">
@@ -121,7 +97,7 @@ Because innovation starts with **humans, not code**.
 <div align="center">
 
 **Let’s Connect**  
-[🌐 Website](https://www.retex.com) • [💼 LinkedIn](https://www.linkedin.com/company/retex-s-p-a-/) • [📧 info@retex.com](mailto:info@retex.com)
+[🌐 Website](https://www.venistar.com) • [💼 LinkedIn](https://www.linkedin.com/company/venistar/) • [📧 info@retex.com](mailto:info@venistar.retex.com)
 
 ---
 
