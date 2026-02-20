@@ -46,7 +46,7 @@ We’re **600+ innovators from 32 countries** redefining how brands and people c
 
 ## 🛠️ Tech Playground
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,next,tailwind,nodejs,graphql,wordpress,jupyter)
+![Tech Stack](https://skillicons.dev/icons?i=angular,java,ts,js,docker,kubernetes,,vue,nuxt,react,next,tailwind,nodejs,graphql,wordpress,jupyter)
 
 We engineer **scalable, cloud-native, enterprise-grade solutions** that power global brands.
 
