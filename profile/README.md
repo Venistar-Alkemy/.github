@@ -10,20 +10,20 @@
   <br/>
 
   <!-- BADGES -->
-  <a href="https://www.retex.com">
+  <a href="https://www.venistar.com">
     <img alt="Website" src="https://img.shields.io/badge/🌍-Website-2A7B9B?style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/company/retex-s-p-a-/">
+  <a href="https://www.linkedin.com/company/venistar/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/💼-LinkedIn-53AAED?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:info@retex.com">
+  <a href="mailto:info@venistar.retex.com">
     <img alt="Contact" src="https://img.shields.io/badge/📧-Contact-C75780?style=for-the-badge">
   </a>
 </div>
 
 ---
 
-## 🚀 Who We Are
+## 🚀 Who We Are (Retex Group)
 
 We’re not just a company.  
 We’re **600+ innovators from 32 countries** redefining how brands and people connect.
