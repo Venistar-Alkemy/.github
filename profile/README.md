@@ -3,7 +3,7 @@
 
 <!-- LOGO + CLAIM + BADGES -->
 <div align="center">
-  <img src="../assets/logo-venistar.svg" alt="Retex Logo" width="140" />
+  <img src="../assets/logo_venistar.svg" alt="Venistar Logo" width="140" />
 
   **Building the next generation of Retail Experience.**
 
